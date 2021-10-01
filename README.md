@@ -1,4 +1,4 @@
-# Discord Moderation Botu
+# Discord Moderasyon Botu
 
 - Botta yapmanız gereken tek şey index'te bulunan config kısmını eksiksiz doldurmanız olacaktır.
 - Config kısmını doldurduktan sonra tokeninizi aktif hale getirip botu kullanmaya başlayabilirsiniz.

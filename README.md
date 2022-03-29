@@ -1,6 +1,6 @@
 # Discord Moderasyon Botu
 
-* V12 ilk zamanlarından kullanılan [Transsly'e](https://github.com/transsly) ve benim kullandığım moderasyondur database olarak quick.db kullanılmaktadır bi tık eski olsada kullanılabilecek en sade ve güzel bir moderasyon botudur.
+* V12 ilk zamanlarından kullanılan [Transsly](https://github.com/transsly) ve benim kullandığım moderasyondur database olarak quick.db kullanılmaktadır bi tık eski olsada kullanılabilecek en sade ve güzel bir moderasyon botudur.
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.

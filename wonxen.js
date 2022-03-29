@@ -1,1 +1,0 @@
-Zamanı gelince paylaşılıcak.

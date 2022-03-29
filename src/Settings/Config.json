@@ -1,0 +1,55 @@
+{
+  "Tag": "✦",
+  "Tagsız": "⦁",
+  "YasakTaglar": [],
+
+  "WelcomeSystem": {
+    "Rules": "",
+    "Welcome": "",
+    "webhookID": "",
+    "webhookToken": ""
+  },
+
+  "Roller": {
+    "Kurucu": "",
+    "Booster": "",
+    "MuteRole": "",
+    "JailRole": "",
+    "SupheliRole": "",
+    "YasakliTagRole": "",
+    "BotHammer": [""],
+    "WarnHammer": [""],
+    "MuteHammer": [""],
+    "VMuteHammer": [""],
+    "JailHammer": [""],
+    "BanHammer": [""],
+    "RoleHammer": [""]
+  },
+  
+  "Yetenek": {
+    "Vokal": "",
+    "Streamer": "",
+    "Müzisyen": "",
+    "Telli": "",
+    "Yazılımcı": "",
+    "Tasarımcı": "",
+    "Ressam": "",
+    "Şair": ""
+  },
+
+  "RegisterSystem": {
+    "Chat": "",
+    "Registery": [""],
+    "Register": [""],
+    "Unregistered": [""],
+    "Vip": "",
+    "Family": "",
+    "Man": [""],
+    "Woman": [""]
+  },
+
+  "Others": {
+    "CheckTick": "",
+    "RedTick": ""
+  }
+}

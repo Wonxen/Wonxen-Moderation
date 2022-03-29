@@ -61,7 +61,7 @@ module.exports = {
             kullaniciverisi.add(`teyit.${message.author.id}.erkekteyit`, 1);
             kullanicicinsiyet.push(`veri.${uye.id}.cinsiyet`, `erkek`);
             message.lineReply(embed.setDescription(`\`•\` ${uye} Kullanıcıyı <@&${Config.RegisterSystem.Man[0]}> rolünü vererek **Erkek** olarak kaydettim.\n\`•\` Kullanıcının ismi \`${BelirlenenIsim}\` olarak güncelleyip veri tabanına kaydettim.`)).then(message.react(wonxenveri.Others.CheckTick)).then(sil => sil.delete({timeout: 15000}));
-            sohbet.send(`${uye} adlı üye aramıza yeni katıldı bir hoş geldin diyelim ve senle birlikte topluluğumuz **${message.guild.memberCount}** kişi oldu!`).then(sil => sil.delete({timeout: 60000}));
+            sohbet.send(`🎉 ${uye} adlı üye aramıza yeni katıldı bir hoş geldin diyelim ve senle birlikte topluluğumuz **${message.guild.memberCount}** kişi oldu!`).then(sil => sil.delete({timeout: 60000}));
 	    logs.wsend(embed.setDescription(`${uye} (\`${uye.user.tag}\`) adlı kullanıcı ${message.author} (\`${message.author.tag}\`) tarafından \`${moment().format('LLL')}\` tarihinde \`${BelirlenenIsim}\` ismiyle ve **Erkek** olarak kaydedildi.`));
     }
 };

@@ -15,6 +15,6 @@
 * [Discord Profilim](https://discord.com/users/545976310342746152)
 * [Transsly Github](https://github.com/transsly)
 * [Transsly Discord Profili](https://discord.com/users/201096212533739530)
-* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
+* Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bize ulaşabilirsiniz.
 
 ### NOT: Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır.

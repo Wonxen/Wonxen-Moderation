@@ -1,6 +1,6 @@
 echo off
-title ( Wonxen ) Moderation v12 (New)
-color d
+title Wonxen Moderation
+color a
 cls
 :a
 node index.js

@@ -32,7 +32,7 @@ module.exports = {
         message.channel.updateOverwrite(message.guild.id, {
             SEND_MESSAGES: false
         }).then(async() => {
-            await message.channel.send("Kanal başarıyla kilitlendi.", message.author, message.channel)
+            await message.channel.send("Kanal başarıyla kilitlendi.")
         })
     }
 
@@ -40,7 +40,7 @@ module.exports = {
         message.channel.updateOverwrite(message.guild.id, {
             SEND_MESSAGES: true
         }).then(async() => {
-            await message.channel.send("Kanalın kilidi başarıyla açıldı.", message.author, message.channel)
+            await message.channel.send("Kanalın kilidi başarıyla açıldı.")
         })
     }
 }
